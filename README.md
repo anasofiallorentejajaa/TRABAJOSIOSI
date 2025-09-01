@@ -48,6 +48,7 @@
 -g++ calculadora.cpp -o calculadora.exe && calculadora.exe
 
 -g++ problema6.cpp -o problema6.exe && problema6.exe
+
 -g++ "validacion_fecha (1).cpp" -o validacion_fecha.exe && validacion_fecha.exe
 
 
